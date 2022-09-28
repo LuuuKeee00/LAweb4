@@ -1,0 +1,84 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.top{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/images/bg.png);
+  background-position: center center;
+  background-size: cover;
+}
+
+.logo{
+  text-align: center;
+  padding-top: 200px;
+  
+}
+
+.attraction{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/images/bg2.png);
+  background-position: center center;
+  background-size: cover;
+}
+
+.attraction img{
+  padding-top: 200px;
+  padding-left: 200px;
+}
+
+.attraction_text{
+  color: white;
+  font-size: 30px;
+  line-height: 80px;
+  margin-left: 900px;
+
+}
+
+.goods{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/images/bg3.png);
+  background-position: center center;
+  background-size: cover;
+}
+
+.way{
+  padding-top: 200px;
+  padding-left: 200px;
+}
+
+#limited{
+  padding: 100px 0;
+}
+
+.insta{
+  padding-top: 150px;
+  padding-left: 300px;
+  text-align: center;
+  display: flex; 
+	flex-wrap: wrap;
+	gap: 100px
+}
+
+.hotel{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/images/bg04.png);
+  background-position: center center;
+  background-size: cover;
+}
+
+.hotel img{
+  padding-top: 200px;
+  padding-left: 200px;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  padding-top:440px;
+}
